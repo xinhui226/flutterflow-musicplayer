@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465999830390",
+    "project_id": "sound-sleep-aid-app-uos9s6",
+    "storage_bucket": "sound-sleep-aid-app-uos9s6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465999830390:android:3de1c1333c64d39a216e57",
+        "android_client_info": {
+          "package_name": "com.mycompany.soundsleepaidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0XWYsb2YggPwtRDvxKRJNa7f6oBI-Rzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
